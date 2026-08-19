@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
