@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+| [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
