@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
@@ -79,5 +82,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
