@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
