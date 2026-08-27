@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
