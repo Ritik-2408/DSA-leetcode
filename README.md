@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritik-2408/DSA-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3731-find-missing-elements) |
