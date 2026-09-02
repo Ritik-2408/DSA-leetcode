@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
