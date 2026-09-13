@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0268-missing-number) |
+| [0835-image-overlap](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Ritik-2408/DSA-leetcode/tree/master/1872-stone-game-viii) |
@@ -170,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ritik-2408/DSA-leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritik-2408/DSA-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
